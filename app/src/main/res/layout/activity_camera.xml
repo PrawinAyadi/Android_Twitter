@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".CameraActivity">
+    tools:context=".Camera">
     <ImageView
         android:id="@+id/profile_image"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:scaleType="centerInside"
-        android:src="@drawable/icon_twitter"
+        android:src="@drawable/ic_twitter"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
